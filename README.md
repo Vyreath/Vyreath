@@ -1,16 +1,58 @@
-## Hi there 👋
+<p align="center">
+  <img 
+    src="https://images.steamusercontent.com/ugc/574564421344097398/523238DC382BB8C86BF70CD448D927A69AECEB17/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    alt="MasterHead"
+    width="100%"
+  />
+</p>
 
-<!--
-**Vyreath/Vyreath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Vi
+</h1>
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=%236FDA44&size=30&center=true&vCenter=true&width=650&height=50&lines=Software+Engineering+Student;Learning+C%23+and+Cybersecurity;Future+.NET+Developer" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👋 About Me
+
+🎓 Software Engineering student  
+💻 Currently focused with **C#** and **.NET**  
+🌱 Learning **Linux** and **basic cybersecurity**  
+🎮 Interested in **game development with Unity**  
+🚀 Building projects to grow as a developer  
+
+📄 Resume: *coming soon*
+
+---
+
+## 🤝 Socials
+
+- GitHub  
+- LinkedIn  
+- Discord  
+
+---
+
+## 🛠 Skills (reales y creíbles)
+
+**Languages**
+- C#
+- Python
+- Java
+
+**Tools & Tech**
+- Git & GitHub
+- Linux
+- Unity
+- Visual Studio / VS Code
+
+---
+
+<p align="center">
+  <a href="https://pin.it/24FIbEq8W" target="_blank">
+    Ver imagen en Pinterest
+  </a>
+</p>

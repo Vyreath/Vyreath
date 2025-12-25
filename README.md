@@ -51,8 +51,6 @@
 
 ---
 
-<p align="center">
-  <a href="https://pin.it/24FIbEq8W" target="_blank">
-    Ver imagen en Pinterest
+
   </a>
 </p>

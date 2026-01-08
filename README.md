@@ -20,7 +20,7 @@
 
 🎓 Software Engineering student  
 💻 Currently focused with **C#** and **.NET**  
-🌱 Learning **Linux** and **basic cybersecurity**  
+🌱 Learning **Linux** and **cybersecurity**  
 🎮 Interested in **game development with Unity**  
 🚀 Building projects to grow as a developer  
 
@@ -46,7 +46,6 @@
 **Tools & Tech**
 - Git & GitHub
 - Linux
-- Unity
 - Visual Studio / VS Code
 
 ---

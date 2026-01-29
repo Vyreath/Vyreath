@@ -36,7 +36,7 @@
 
 ---
 
-## 🛠 Skills (reales y creíbles)
+## 🛠 Skills
 
 **Languages**
 - C#

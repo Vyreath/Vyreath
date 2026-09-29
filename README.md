@@ -11,7 +11,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=%236FDA44&size=30&center=true&vCenter=true&width=650&height=50&lines=Software+Engineering+Student;Learning+C%23+and+Cybersecurity;Future+.NET+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=%236FDA44&size=30&center=true&vCenter=true&width=650&height=50&lines=Software+Engineering+Student;Learning+C%23+and+Unity" />
 </div>
 
 ---

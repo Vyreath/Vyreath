@@ -20,7 +20,6 @@
 
 🎓 Software Engineering student  
 💻 Currently focused with **C#** and **.NET**  
-🌱 Learning **Linux** and **cybersecurity**  
 🎮 Interested in **game development with Unity**  
 🚀 Building projects to grow as a developer  
 

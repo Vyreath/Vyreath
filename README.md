@@ -19,7 +19,7 @@
 ## 👋 About Me
 
 🎓 Software Engineering student  
-💻 Currently focused with **C#** and **.NET**  
+💻 Currently focused with **C#**  
 🎮 Interested in **game development with Unity**  
 🚀 Building projects to grow as a developer  
 
